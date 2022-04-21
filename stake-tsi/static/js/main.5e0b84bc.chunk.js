@@ -17,7 +17,7 @@ var gasPrice = 40000000000;
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to The Secret Island Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to study and they will earn 4 TENTA Token every 12 hours!"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to study and they will earn 9 TENTA Token every 24 hours!"}),
 					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA Token  -  Utility Token for the The Secret Island - You can now mint other project with TENTA Token!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
