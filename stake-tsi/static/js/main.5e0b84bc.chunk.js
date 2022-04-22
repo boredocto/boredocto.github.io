@@ -174,7 +174,7 @@ var gasPrice = 40000000000;
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/987*100,"% The Secret Island Staked: "]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/10,"% The Secret Island Staked: "]}),
 								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
