@@ -18,7 +18,7 @@ var gasPrice = 40000000000;
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Baby Octopus Staking Lab"}),
 					Object(r.jsx)("p",{className:"subtitle",children:"Send your Baby Octopus to working and they will earn 3 TENTA per NFT every 24 hours!"}),
-					Object(r.jsx)("p",{className:"primary-text",children:"Now, you can mint Baby Octopus Club with $TENTA and waiting Next Project mint with $TENTA!"})]}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Now, you can mint Baby Octopus Club with $TENTA! Collect and waiting the next project to be mint with $TENTA"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
