@@ -17,9 +17,9 @@ var gasPrice = 40000000000;
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to The Secret Island Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to stake and they will earn 3 TENTA Token every 24 hours!"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to stake and they will earn 6 TENTA Token every 24 hours!"}),
 				 
-					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA  -   Now, you can mint Baby Octopus Club with $TENTA. Earnings will be adjust after baby octopus 3000 minted - 3 tenta per NFT (balancing same as a Baby Octopus)"})]}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA  -   Now, you can mint Baby Octopus Club with $TENTA. Earnings will be adjust after Baby Octopus 3000 minted - 6 tenta per NFT (balancing same as a Bored Octopus)"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
