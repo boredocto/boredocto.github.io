@@ -19,7 +19,7 @@ var gasPrice = 40000000000;
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to The Secret Island Staking Lab"}),
 					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to stake and they will earn 9 TENTA Token every 24 hours!"}),
 				 
-					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA  -   Now, you can mint Baby Octopus Club with $TENTA. Earnings will be adjust after baby octopus 3000 is minted, from 9 tenta to 3 tenta per NFT"})]}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA  -   Now, you can mint Baby Octopus Club with $TENTA. Earnings will be adjust after baby octopus 3000 is minted, from 9 tenta to 3 tenta per NFT (balancing same as a Baby Octopus)"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
