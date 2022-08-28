@@ -199,7 +199,7 @@ var gasPrice = 40000000000;
 									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," TENTA per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
-										children:[
+										children:[ 
 										Object(r.jsx)("h2",{className:"box-btn mb-3",children:"Connect Your Wallet"}),
 										Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){return t()},children:"Connect"})]})})}),
 							Object(r.jsx)("div",{className:"col-md-6 d-none d-md-block",
