@@ -20,6 +20,7 @@ var gasPrice = 40000000000;
 					Object(r.jsx)("p",{className:"subtitle",children:"Send your The Secret Island to stake and they will earn 6 TENTA Token every 24 hours!"}),
 				 
 					Object(r.jsx)("p",{className:"primary-text",children:"Stake your The Secret Island to earn TENTA  -   Now, you can mint Baby Octopus Club with $TENTA. Earnings will be adjust after Baby Octopus 3000 minted - 6 tenta per NFT (balancing same as a Bored Octopus)"})]}),
+				        Object(r.jsx)("p",{className:"primary-text",children:"Stake your TheTotal supply of TENTACoin is permanently set at 50 million tokens. Maximum supply for 21 million tokens in circulation. 29 million will be locked, if needed for the future will be used for long-term development."})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
