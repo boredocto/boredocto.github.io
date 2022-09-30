@@ -136,7 +136,7 @@ var gasPrice = 40000000000;
 										Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6/"+e+"",target:"_blank",
-											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://gateway.pinata.cloud/ipfs/QmZNvkQCCqDiSkvoP3vMN4U8q1qXTP9EnP2ZNs91CQ8B8m/"+e+".png"})}),
+											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://nftstorage.link/ipfs/bafybeih3jyosa4idmejhxmn5s6r6q3z3d6pwox477ueobwpue3sgjrjmfe/"+e+".png"})}),
 											Object(r.jsx)("button",{className:"nft-btn ".concat(n==+e?"active":""),onClick:function(){s(e)},children:e},t)
 										]}),
 										]}))}),
