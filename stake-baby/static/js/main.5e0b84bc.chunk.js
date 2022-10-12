@@ -195,7 +195,7 @@ var gasPrice = 40000000000;
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending TENTA Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per Baby Octopus NFT"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["You are currently earning: ",(b*6).toFixed(1)," TENTA per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated earnings: ",(b*6).toFixed(1)," TENTA per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
