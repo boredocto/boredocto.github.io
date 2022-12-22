@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6",
-  "SCAN_LINK": "https://polygonscan.com/token/0x47ab7cd7A8df3b816F6994c4093b416c5BD881F6",
+  "CONTRACT_ADDRESS": "0x1c00346F037E70D21FE7365802D4B7E8c78D6079",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1c00346F037E70D21FE7365802D4B7E8c78D6079",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
   "NFT_NAME": "Bored Octopus Club",
-  "SYMBOL": "BOCL",
+  "SYMBOL": "BOC",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-octopus-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boredoctopus",
   "SHOW_BACKGROUND": true
 }
