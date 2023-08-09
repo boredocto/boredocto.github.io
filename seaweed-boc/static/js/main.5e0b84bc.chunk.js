@@ -129,7 +129,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your Bored Octopus Cultivating Seaweed"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your Bored Octopus Cultivating SeaWeed"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
@@ -191,11 +191,11 @@ var gasPrice = 40000000000;
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your SaeWeed: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," SeaWeed"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Your Octopus is Bored Cultivating Seaweed: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending Harvesting Seaweed: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Your Octopus is Bored Cultivating SeaWeed: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending Harvesting SeaWeed: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*6).toFixed(1)," SeaWeed per Bored Octopus Club"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated Your SeaWeed Farm: ",(b*6).toFixed(1)," SeaWeed per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*6).toFixed(1)," SeaWeed per BOC"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*6).toFixed(1)," SeaWeed per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Harvest Now"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
