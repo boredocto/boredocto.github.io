@@ -149,7 +149,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
-							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Break to Swim in The Sea"}),
+							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Swim in The Sea"}),
 							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
@@ -191,7 +191,7 @@ var gasPrice = 40000000000;
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your SaeWeed: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," SeaWeed"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Your Octopus is Bored Cultivating SeaWeed: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Your Octopus Cultivating SeaWeed: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending Harvesting SeaWeed: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*6).toFixed(1)," SeaWeed per BOC"]}),
