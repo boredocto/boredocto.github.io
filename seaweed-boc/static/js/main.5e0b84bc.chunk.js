@@ -161,8 +161,8 @@ var gasPrice = 40000000000;
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
 								children:[
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Stake"}),
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Stake All"})
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Farming"}),
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Farming All"})
 								]})
 							]})
 						]})]
