@@ -174,8 +174,8 @@ var gasPrice = 40000000000;
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/110,"% Bored Octopus Staked: "]}),
-								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/110,"% BOC SeaWeed Farmer: "]}),
+								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owner of Seaweed Cultivation:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
 								Object(r.jsxs)("p",{className:"text-end text-nowrap mb-2 top-text ms-auto",children:[u," /10946"]}),
