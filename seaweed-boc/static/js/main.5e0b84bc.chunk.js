@@ -16,7 +16,7 @@ var gasPrice = 40000000000;
 		return Object(r.jsx)("div",{className:"container",
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
-					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to Seaweed Field"}),
+					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to Seaweed Algaculture"}),
 					Object(r.jsx)("p",{className:"subtitle",children:"Send Your Bored Octopus for SeaWeed Cultivation. </br> Bored Octopus will works to plant SeaWeed. Every day the SeaWeed will grow 30%, so to get 1 SeaWeed takes 3 days"}),
 					Object(r.jsx)("p",{className:"primary-text",children:"Collect as much Seaweed as you can - later it can be exchanged for other NFT collections!"})]}),
 			]})})},
