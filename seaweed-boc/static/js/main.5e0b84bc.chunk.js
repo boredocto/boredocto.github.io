@@ -16,9 +16,9 @@ var gasPrice = 40000000000;
 		return Object(r.jsx)("div",{className:"container",
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
-					children:[Object(r.jsx)("h1",{className:"page-title",children:"Baby Octopus Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your Baby Octopus to working and they will earn 1.5 TENTA per NFT every 24 hours!"}),
-					Object(r.jsx)("p",{className:"primary-text",children:"Now, you can mint Baby Octopus Club with $TENTA! Collect and wait the next project to be mint with $TENTA"})]}),
+					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to SEAWEED Algaculture"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"SEAWEED farming is cultivating and harvesting SEAWEED. Send Your Bored Octopus for SEAWEED Cultivation, they will works to plant SEAWEED. Every day the SEAWEED will grow 30%, so to get 1 SEAWEED takes 3 days"}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Collect as much SEAWEED as you can - later it can be exchanged for other NFT collections!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
@@ -129,14 +129,14 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked Baby Octopus Club NFTs"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your Bored Octopus Cultivating SEAWEED"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
 										Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x1c00346F037E70D21FE7365802D4B7E8c78D6079/"+e+"",target:"_blank",
-											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://nftstorage.link/ipfs/bafybeihxub4l3z3vmdfzjuzabcwjgmh24phgqfyipznwu3sdxbyygnuaym/"+e+".png"})}),
+											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://nftstorage.link/ipfs/bafybeih3jyosa4idmejhxmn5s6r6q3z3d6pwox477ueobwpue3sgjrjmfe/"+e+".png"})}),
 											Object(r.jsx)("button",{className:"nft-btn ".concat(n==+e?"active":""),onClick:function(){s(e)},children:e},t)
 										]}),
 										]}))}),
@@ -155,7 +155,7 @@ var gasPrice = 40000000000;
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
 										children:[
 											Object(r.jsx)("a",{href:"https://opensea.io/assets/matic/0x1c00346F037E70D21FE7365802D4B7E8c78D6079/"+e+"",target:"_blank",
-											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://nftstorage.link/ipfs/bafybeihxub4l3z3vmdfzjuzabcwjgmh24phgqfyipznwu3sdxbyygnuaym/"+e+".png"})}),
+											children:Object(r.jsx)("img",{className:"nft-picture",src:"https://nftstorage.link/ipfs/bafybeih3jyosa4idmejhxmn5s6r6q3z3d6pwox477ueobwpue3sgjrjmfe/"+e+".png"})}),
 											Object(r.jsx)("button",{className:"nft-btn ".concat(p==+e?"active":""),onClick:function(){c(e)},children:e},t)
 											]})
 										]}))}),
