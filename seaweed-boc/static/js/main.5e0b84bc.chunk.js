@@ -17,7 +17,7 @@ var gasPrice = 40000000000;
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
 					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to SEAWEED Algaculture"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"SEAWEED farming is cultivating and harvesting SEAWEED. Send Your Bored Octopus for SEAWEED Cultivation, they will works to plant SEAWEED. Every day the SEAWEED will grow 30%, so to get 1 SEAWEED takes 3 days"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"SEAWEED Algaculture is cultivating and harvesting seaweed. Send Your Bored Octopus for seaweed Cultivation, they will works to plant seaweed. Every day the seaweed will grow 30%, so to get 1 SEAWEED takes 3 days"}),
 					Object(r.jsx)("p",{className:"primary-text",children:"Collect as much SEAWEED as you can - later it can be exchanged for other NFT collections!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
@@ -129,7 +129,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your Bored Octopus Cultivating SEAWEED"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your BOC working"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
@@ -149,7 +149,7 @@ var gasPrice = 40000000000;
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
-							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Baby Octopus Club NFTs"}),
+							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"BOC Swimming in the sea"}),
 							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
@@ -174,11 +174,11 @@ var gasPrice = 40000000000;
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/180,"% Baby Octopus Club Staked: "]}),
-								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/100,"% BOC SEAWEED Farmer: "]}),
+								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owner of Seaweed Cultivation:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
-								Object(r.jsxs)("p",{className:"text-end text-nowrap mb-2 top-text ms-auto",children:[u," /17711"]}),
+								Object(r.jsxs)("p",{className:"text-end text-nowrap mb-2 top-text ms-auto",children:[u," /10946"]}),
 								Object(r.jsx)("p",{className:"text-end text-nowrap top-text ms-auto",children:c})]})]}),
 						Object(r.jsxs)("div",{className:"row justify-content-between",
 							children:[
@@ -190,13 +190,13 @@ var gasPrice = 40000000000;
 									children:[
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
-									Object(r.jsx)("h5",{className:"mb-3",children:["Your TENTA Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," TENTA"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Baby Octopus Club you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending TENTA Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
+									Object(r.jsx)("h5",{className:"mb-3",children:["Your SEAWEED: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," SEAWEED"]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Your BOC Cultivating: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["SEAWEED Waiting to be Harvested: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," TENTA per Baby Octopus NFT"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated earnings: ",(b*6).toFixed(1)," TENTA per Day"]}),
-									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*6).toFixed(1)," SEAWEED per BOC"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*6).toFixed(1)," SEAWEED per Day"]}),
+									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Harvest Now"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
 										Object(r.jsx)("h2",{className:"box-btn mb-3",children:"Connect Your Wallet"}),
@@ -204,7 +204,7 @@ var gasPrice = 40000000000;
 							Object(r.jsx)("div",{className:"col-md-6 d-none d-md-block",
 								children:Object(r.jsxs)("div",{className:"",
 									children:[
-									Object(r.jsx)("img",{src:"img/pos-baby.jpg",className:"blid-image"})
+									Object(r.jsx)("img",{src:"img/seaweeds-farming.jpg",className:"blid-image"})
 									]})})
 							]}),
 						Object(r.jsxs)("div",{className:"row box-row justify-content-between my-3",
