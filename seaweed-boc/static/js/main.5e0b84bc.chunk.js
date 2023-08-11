@@ -142,8 +142,8 @@ var gasPrice = 40000000000;
 										]}))}),
 								Object(r.jsxs)("div",{className:"",
 								children:[
-									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){n&&b(+n)},children:"Unstake"}),
-									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){f()},children:"Unstake All"})]})
+									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){n&&b(+n)},children:"Rest"}),
+									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){f()},children:"Rest All"})]})
 							]})]}),
 					Object(r.jsxs)("div",{className:"col-md-6 justify-content-evenly",
 						children:[
@@ -161,8 +161,8 @@ var gasPrice = 40000000000;
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
 								children:[
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Stake"}),
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Stake All"})
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Working"}),
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Working All"})
 								]})
 							]})
 						]})]
