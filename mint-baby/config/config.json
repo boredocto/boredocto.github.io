@@ -1,7 +1,7 @@
 {
-  "CONTRACT_ADDRESS": "0xD301e2A6293fF7d1bA09C77EaBc57B601884CDa1",
-  "TENTA_ADDRESS": "0xCcae792551205B18adBE3B3EBA01a2878BFa6998",
-  "SCAN_LINK": "https://polygonscan.com/token/0xD301e2A6293fF7d1bA09C77EaBc57B601884CDa1",
+  "CONTRACT_ADDRESS": "0x29B862FE08ba46431C931467670C9EB3EbAc745d",
+  "TENTA_ADDRESS": "0x19D6921046CE8c34f4086BACf6F15B918cD059e0",
+  "SCAN_LINK": "https://polygonscan.com/token/0x29B862FE08ba46431C931467670C9EB3EbAc745d",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
@@ -14,6 +14,6 @@
   "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/babyocto",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/babyoctoclub",
   "SHOW_BACKGROUND": true
 }
