@@ -12,7 +12,7 @@
   "MAX_SUPPLY": 17711,
   "WEI_COST": 3000000000,
   "DISPLAY_COST": 10,
-  "GAS_LIMIT": 1000000000,
+  "GAS_LIMIT": 1000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/babyoctoclub",
   "SHOW_BACKGROUND": true
