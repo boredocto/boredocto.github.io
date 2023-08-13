@@ -212,6 +212,6 @@ var gasPrice = 40000000000;
 							Object(r.jsx)("div",{className:"col-md-12",children:!1===y?Object(r.jsxs)
 				("div",{className:"main-box-approve justify-content-center",
 					children:[
-						Object(r.jsx)("p",{className:"top-text",children:"After connect your wallet click 'Approve Staking' to approve the contract to enable staking."}),
+						Object(r.jsx)("p",{className:"top-text",children:"After connect your wallet click 'Approve'  to approve the BOC contract to enable Cultivation."}),
 						Object(r.jsx)("button",{className:"box-btn mt-3",onClick:function(){return l()},
-							children:"Approve Staking"})]}):Object(r.jsx)(k,{})})]})]})},M=function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("main",{children:Object(r.jsxs)("section",{className:"w-100",children:[Object(r.jsx)(u,{}),Object(r.jsx)(g,{})]})})})};n(487);i.a.render(Object(r.jsxs)(w,{children:[Object(r.jsx)(M,{}),Object(r.jsx)(h.a,{})]}),document.getElementById("root"))}},[[488,1,2]]]);
+							children:"Approve"})]}):Object(r.jsx)(k,{})})]})]})},M=function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("main",{children:Object(r.jsxs)("section",{className:"w-100",children:[Object(r.jsx)(u,{}),Object(r.jsx)(g,{})]})})})};n(487);i.a.render(Object(r.jsxs)(w,{children:[Object(r.jsx)(M,{}),Object(r.jsx)(h.a,{})]}),document.getElementById("root"))}},[[488,1,2]]]);
