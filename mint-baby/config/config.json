@@ -10,7 +10,7 @@
   "NFT_NAME": "Baby Octopus Club",
   "SYMBOL": "BBO",
   "MAX_SUPPLY": 17711,
-  "WEI_COST": 2000000000,
+  "WEI_COST": 2000,
   "DISPLAY_COST": 10,
   "GAS_LIMIT": 125000000000,
   "MARKETPLACE": "Opeansea",
