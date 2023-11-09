@@ -1,12 +1,12 @@
 // Constant URL value for JAAS API
-var gasPrice = 40000000000;
+var gasPrice = 4000000000;
 // const response = fetch('https://api.polygonscan.com/api?module=gastracker&action=gasoracle')
 //     .then(response => response.json())
 //     .then((json) => { return json; })
 //     .catch(err => console.log('Request Failed', err));
 // const SetGasPrice = () => {
 //   response.then((a) => {
-//     gasPrice =  a.result.FastGasPrice * 1000000000
+//     gasPrice =  a.result.FastGasPrice * 100000000
 //   })
 // };
 // SetGasPrice();
