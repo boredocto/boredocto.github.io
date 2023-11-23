@@ -204,7 +204,7 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 							Object(r.jsx)("div",{className:"col-md-6 d-none d-md-block",
 								children:Object(r.jsxs)("div",{className:"",
 									children:[
-									Object(r.jsx)("img",{src:"img/pos-baby.jpg",className:"blid-image"})
+									Object(r.jsx)("img",{src:"img/seaweeds-farming.jpg",className:"blid-image"})
 									]})})
 							]}),
 						Object(r.jsxs)("div",{className:"row box-row justify-content-between my-3",
