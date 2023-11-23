@@ -16,9 +16,9 @@ var gasPrice = 40000000000;
 		return Object(r.jsx)("div",{className:"container",
 			children:Object(r.jsxs)("div",{className:"row justify-content-between mt-3",
 				children:[Object(r.jsxs)("div",{className:"col-md-12 top-holder",
-					children:[Object(r.jsx)("h1",{className:"page-title",children:"Baby Octopus Staking Lab"}),
-					Object(r.jsx)("p",{className:"subtitle",children:"Send your Baby Octopus to working and they will earn 1.5 SEAWEED per NFT every 24 hours!"}),
-					Object(r.jsx)("p",{className:"primary-text",children:"Now, you can mint Baby Octopus Club with $SEAWEED! Collect and wait the next project to be mint with $SEAWEED"})]}),
+					children:[Object(r.jsx)("h1",{className:"page-title",children:"Welcome to SEAWEED Algaculture"}),
+					Object(r.jsx)("p",{className:"subtitle",children:"SEAWEED Algaculture is cultivating and harvesting seaweed. Send Your Bored Octopus for seaweed Cultivation, they will works to plant seaweed. Every day the seaweed will grow 15%, so to get 1 SEAWEED takes 6 days"}),
+					Object(r.jsx)("p",{className:"primary-text",children:"Collect as much SEAWEED as you can - later it can be exchanged for other NFT collections!"})]}),
 			]})})},
 		o=n(13),p=n(11),c=n.n(p),l=n(17),y=n(109),d=n.n(y),m=n(108),b=n.n(m),f={},
 	j=[
