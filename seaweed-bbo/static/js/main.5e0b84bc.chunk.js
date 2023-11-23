@@ -142,8 +142,8 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 										]}))}),
 								Object(r.jsxs)("div",{className:"",
 								children:[
-									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){n&&b(+n)},children:"Unstake"}),
-									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){f()},children:"Unstake All"})]})
+									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){n&&b(+n)},children:"Rest"}),
+									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){f()},children:"Rest All"})]})
 							]})]}),
 					Object(r.jsxs)("div",{className:"col-md-6 justify-content-evenly",
 						children:[
@@ -161,8 +161,8 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 										]}))}),
 							Object(r.jsxs)("div",{className:"",
 								children:[
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Stake"}),
-								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Stake All"})
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){p&&m(+p)},children:"Work"}),
+								Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){j()},children:"Work All"})
 								]})
 							]})
 						]})]
@@ -174,7 +174,7 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 							children:[
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder left",
 								children:[
-								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/180,"% Baby Octopus Club Staked: "]}),
+								Object(r.jsxs)("p",{className:"mb-2 top-text text-nowrap",children:[u/180,"% BBO SEAWEED Farmer: "]}),
 								Object(r.jsx)("p",{className:"top-text text-nowrap",children:"Owners that have staked:  "})]}),
 							Object(r.jsxs)("span",{className:"col-md-6 col-sm-6 info-holder right",
 								children:[
@@ -190,12 +190,12 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 									children:[
 									// Object(r.jsx)("h5",{className:"mb-3",children:O(n)}),
 									Object(r.jsx)("h5",{className:"mb-3",children:["Your address: ",Object(r.jsx)("b",{className:"mb-3",children:O(n)}),]}),
-									Object(r.jsx)("h5",{className:"mb-3",children:["Your SEAWEED Balance: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," SEAWEED"]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Number of Baby Octopus Club you stake: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Pending SEAWEED Reward: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
+									Object(r.jsx)("h5",{className:"mb-3",children:["Your SEAWEED: ",Object(r.jsx)("b",{className:"mb-3",children:[(i*1).toFixed(1)," SEAWEED"]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Your BBO Cultivating:  ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["SEAWEED Waiting to be Harvested: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Reward: ",(f*6).toFixed(1)," SEAWEED per Baby Octopus NFT"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated earnings: ",(b*6).toFixed(1)," SEAWEED per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*3).toFixed(1)," SEAWEED per BBO"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*3).toFixed(1)," SEAWEED per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
