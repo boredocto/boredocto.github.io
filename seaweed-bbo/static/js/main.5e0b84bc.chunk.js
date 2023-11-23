@@ -129,7 +129,7 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 							children:[
-								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your staked Baby Octopus Club NFTs"}),
+								Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your BBO working"}),
 								Object(r.jsxs)("div",{className:"row list-holder",
 									children:d.map((function(e,t)
 										{if(0!=e)return [
@@ -149,7 +149,7 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 						children:[
 						Object(r.jsxs)("div",{className:"main-box align-items-center",
 						children:[
-							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"Your unstaked Baby Octopus Club NFTs"}),
+							Object(r.jsx)("h5",{className:"tab-title align-text-center",children:"BBO Swimming in the sea"}),
 							Object(r.jsx)("div",{className:"row list-holder",
 								children:y.map((function(e,t){return [
 									Object(r.jsxs)("div",{className:"col-3 justify-content-evenly",
