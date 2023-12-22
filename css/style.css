@@ -620,6 +620,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 100px 10px 100px 10px;
 }
 
+#about2 .about-container2 .background2 {
+  width: 100%;
+  background-image: url(../img/seaweed-logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 100px 10px 100px 10px;
+}
+
 #about .about-container .content {
   background: #fff;
 }
