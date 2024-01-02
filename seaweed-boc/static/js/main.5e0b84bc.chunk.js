@@ -194,8 +194,8 @@ var gasPrice = 40000000000;
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Your BOC Cultivating: ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["SEAWEED Waiting to be Harvested: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*6).toFixed(1)," SEAWEED per BOC"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*6).toFixed(1)," SEAWEED per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*8).toFixed(1)," SEAWEED per BOC"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*8).toFixed(1)," SEAWEED per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Harvest Now"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
