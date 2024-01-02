@@ -194,8 +194,8 @@ h=n(27),T=Object(a.createContext)({notification:null,showModal:function(){},hide
 									Object(r.jsxs)("h5",{className:"mb-3",children:["Your BBO Cultivating:  ", Object(r.jsxs)("b",{className:"mb-3",children:[p]}),]}),
 									Object(r.jsxs)("h5",{className:"mb-3",children:["SEAWEED Waiting to be Harvested: ",Object(r.jsxs)("b",{className:"mb-3",children:[m.toFixed(1)]})]}),
 
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*3).toFixed(1)," SEAWEED per BBO"]}),
-									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*3).toFixed(1)," SEAWEED per Day"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Daily Growing: ",(f*4).toFixed(1)," SEAWEED per BBO"]}),
+									Object(r.jsxs)("h5",{className:"mb-3",children:["Estimated: ",(b*4).toFixed(1)," SEAWEED per Day"]}),
 									Object(r.jsx)("button",{className:"box-btn my-3",onClick:function(){d()},children:"Claim Reward"}),
 									Object(r.jsx)("button",{className:"box-btn-disconnect my-3",onClick:function(){return s()},children:"Disconnect"})]}):Object(r.jsxs)(r.Fragment,{
 										children:[
